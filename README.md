@@ -1,0 +1,1 @@
+# php-fpm container for phpkube application
